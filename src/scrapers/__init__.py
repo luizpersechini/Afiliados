@@ -1,0 +1,1 @@
+# Módulo de scrapers/monitores de produtos 

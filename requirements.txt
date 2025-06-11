@@ -1,0 +1,27 @@
+# === DEPENDÊNCIAS PRINCIPAIS ===
+requests>=2.31.0          # Para fazer requisições HTTP
+beautifulsoup4>=4.12.0    # Para web scraping (Amazon)
+python-dotenv>=1.0.0      # Para gerenciar variáveis de ambiente
+schedule>=1.2.0           # Para agendar tarefas
+
+# === REDES SOCIAIS ===
+tweepy>=4.14.0           # Twitter API
+python-telegram-bot>=20.0 # Telegram Bot
+atproto>=0.0.40          # Bluesky/AT Protocol
+
+# === BANCO DE DADOS ===
+sqlite3                  # Já vem com Python
+
+# === ANÁLISE DE DADOS ===
+pandas>=2.0.0           # Para análise de dados
+matplotlib>=3.7.0       # Para gráficos (opcional)
+
+# === UTILITÁRIOS ===
+python-dateutil>=2.8.0  # Para manipular datas
+pytz>=2023.3            # Para fusos horários
+colorama>=0.4.6         # Para cores no terminal
+rich>=13.5.0            # Para output bonito no terminal
+
+# === DESENVOLVIMENTO ===
+pytest>=7.4.0          # Para testes (desenvolvimento)
+black>=23.7.0          # Para formatação de código (desenvolvimento) 
